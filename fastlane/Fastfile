@@ -16,6 +16,11 @@
 default_platform(:ios)
 
 platform :ios do
+  desc "Runs unit tests and UI tests"
+  lane :tests do
+    run_tests(scheme: "sample-apps-fastlane-test")
+  end
+
   desc "Push a new release build to the App Store"
   lane :release do
     increment_build_number(build_number: ENV['BITRISE_BUILD_NUMBER'])

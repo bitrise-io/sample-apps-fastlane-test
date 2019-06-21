@@ -95,6 +95,8 @@ Carthage/Build.rbenv-vars
 # Frameit generated screenshots
 /fastlane/screenshots/*/*-portrait_framed.png
 /fastlane/screenshots/*/*-landscape_framed.png
+# Fastlane test results
+/fastlane/test_output
 
 ####
 # rbenv
