@@ -9,7 +9,7 @@
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.bitrise.sample-apps-fastlane-test</key>
-		<string>Bitrise app-store - (com.bitrise.sample-apps-fastlane-test)</string>
+		<string>sample-apps-fastlane-test App Store Profile</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Distribution</string>

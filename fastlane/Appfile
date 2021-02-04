@@ -1,5 +1,4 @@
 app_identifier("com.bitrise.sample-apps-fastlane-test") # The bundle identifier of your app
-apple_id("akos.birmacher@bitrise.io") # Your Apple email address
 
 itc_team_id("2050416") # App Store Connect Team ID
 team_id("72SA8V3WYL") # Developer Portal Team ID
