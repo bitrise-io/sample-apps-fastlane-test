@@ -399,6 +399,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "io.bitrise.sample-apps-fastlane-testUITests2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "sample-apps-fastlane-test";
@@ -420,6 +421,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "io.bitrise.sample-apps-fastlane-testUITests2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "sample-apps-fastlane-test";
