@@ -27,6 +27,15 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1B68A225223FD202002EC453"
+            BuildableName = "sample-apps-fastlane-test.app"
+            BlueprintName = "sample-apps-fastlane-test"
+            ReferencedContainer = "container:sample-apps-fastlane-test.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
@@ -48,18 +57,17 @@
                ReferencedContainer = "container:sample-apps-fastlane-test.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "138CDF5126661E14009CA017"
+               BuildableName = "sample-apps-fastlane-testUITests2.xctest"
+               BlueprintName = "sample-apps-fastlane-testUITests2"
+               ReferencedContainer = "container:sample-apps-fastlane-test.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B68A225223FD202002EC453"
-            BuildableName = "sample-apps-fastlane-test.app"
-            BlueprintName = "sample-apps-fastlane-test"
-            ReferencedContainer = "container:sample-apps-fastlane-test.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -81,8 +89,6 @@
             ReferencedContainer = "container:sample-apps-fastlane-test.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
