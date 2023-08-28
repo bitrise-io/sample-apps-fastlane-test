@@ -12,15 +12,13 @@
 		<string>sample-apps-fastlane-test App Store Profile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
 	<string>72SA8V3WYL</string>
-	<key>uploadBitcode</key>
-	<true/>
 	<key>uploadSymbols</key>
 	<true/>
 </dict>
