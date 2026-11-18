@@ -1,7 +1,7 @@
-app_identifier("com.bitrise.sample-apps-fastlane-test") # The bundle identifier of your app
+app_identifier("io.bitrise.samples.fastlane-test") # The bundle identifier of your app
 
-itc_team_id("2050416") # App Store Connect Team ID
-team_id("72SA8V3WYL") # Developer Portal Team ID
+itc_team_id("120711569") # App Store Connect Team ID
+team_id("DT2C2FZ7U2") # Developer Portal Team ID
 
 # For more information about the Appfile, see:
 #     https://docs.fastlane.tools/advanced/#appfile
